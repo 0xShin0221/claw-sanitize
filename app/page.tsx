@@ -61,8 +61,14 @@ export default function Home() {
         </p>
         <p className="mt-1">
           Share your setup on{" "}
-          <span className="text-gray-400">ClawSetups.dev</span>{" "}
-          <span className="text-gray-600">(coming soon)</span>
+          <a
+            href="https://claw-setups.vercel.app"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[#E8404A] hover:underline"
+          >
+            ClawSetups.dev
+          </a>
         </p>
         <p className="mt-1">
           <a

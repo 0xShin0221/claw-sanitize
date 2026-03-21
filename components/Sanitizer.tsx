@@ -81,6 +81,7 @@ export default function Sanitizer() {
         >
           Load Sample
         </button>
+        <span className="text-xs text-gray-500 italic">Auto-sanitizes as you type</span>
         <CopyButton text={output} />
         {secretsFound > 0 && (
           <span className="rounded-full bg-[#E8404A]/15 px-3 py-1 text-sm font-medium text-[#E8404A]">
