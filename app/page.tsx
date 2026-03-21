@@ -66,7 +66,7 @@ export default function Home() {
         </p>
         <p className="mt-1">
           <a
-            href="https://github.com/digitaldatech/claw-sanitize"
+            href="https://github.com/0xShin0221/claw-sanitize"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-[#E8404A] hover:underline"
