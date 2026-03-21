@@ -49,6 +49,15 @@ export default function Home() {
             Shin0221
           </a>{" "}
           with AI family
+          {" · "}
+          <a
+            href="https://buymeacoffee.com/shin0221"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-yellow-500 hover:underline"
+          >
+            ☕ Buy me a coffee
+          </a>
         </p>
         <p className="mt-1">
           Share your setup on{" "}
